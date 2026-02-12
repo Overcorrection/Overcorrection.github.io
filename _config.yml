@@ -1,0 +1,7 @@
+title: Puzzled Observer
+description: Observations on public discourse
+theme: minima
+
+markdown: kramdown
+kramdown:
+  input: GFM
